@@ -1,2 +1,6 @@
 streamlit
 streamlit-drawable-canvas
+openai
+Pillow
+numpy
+tensorflow-cpu
